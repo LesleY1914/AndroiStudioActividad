@@ -152,6 +152,7 @@ fun DefaultPreview() {
         Greetings()
     }
 }
+
 @Preview(
     showBackground = true,
     widthDp = 320,
